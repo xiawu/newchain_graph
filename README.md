@@ -1,2 +1,2 @@
-# eth_graph
-Sync ethereum blockchain to Neo4J
+# newchain_graph
+Sync NewChain blockchain to Neo4J
